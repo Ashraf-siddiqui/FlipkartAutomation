@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-18T09:32:32Z" name="Default suite" finished-at="2021-10-18T09:33:35Z" duration-ms="63690">
+    <groups>
+    </groups>
+    <test started-at="2021-10-18T09:32:32Z" name="Default test" finished-at="2021-10-18T09:33:35Z" duration-ms="63690">
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Tests.LoginTest@35399441]" started-at="2021-10-18T15:02:32Z" name="SetUp" finished-at="2021-10-18T15:02:33Z" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="initialie()[pri:0, instance:Tests.LoginTest@35399441]" started-at="2021-10-18T15:02:33Z" name="initialie" finished-at="2021-10-18T15:02:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialie -->
+        <test-method signature="Login()[pri:0, instance:Tests.LoginTest@35399441]" started-at="2021-10-18T15:02:33Z" name="Login" finished-at="2021-10-18T15:03:35Z" duration-ms="61630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:Tests.LoginTest@35399441]" started-at="2021-10-18T15:03:35Z" name="flush" finished-at="2021-10-18T15:03:35Z" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Tests.LoginTest@35399441]" started-at="2021-10-18T15:03:36Z" name="TearDown" finished-at="2021-10-18T15:03:36Z" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -21,4 +21,5 @@ public class PageCollection {
 	}
 
 	//added a comment
+	//added a new comment
 }

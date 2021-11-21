@@ -20,5 +20,5 @@ public class PageCollection {
 		return (loginPage == null) ? loginPage = new LoginPage(driver) : loginPage;
 	}
 
-	
+	//added a comment
 }

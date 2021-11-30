@@ -5,6 +5,7 @@ import com.aventstack.extentreports.Status;
 
 public class LoginTest extends BaseTest{
 
+	//added a comment from maste branch
 	@Test
 	public void Login() throws Exception
 	{

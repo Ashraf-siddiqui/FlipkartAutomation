@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" parallel="none">
-  <test name="Default test(failed)" parallel="none">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="Flip.LoginTest">
+      <class name="Tests.LoginTest">
         <methods>
-          <include name="CreateOrder"/>
+          <include name="Remote"/>
           <include name="initialie"/>
-          <include name="SetUp"/>
-          <include name="TearDown"/>
+          <include name="Login"/>
+          <include name="flush"/>
         </methods>
-      </class> <!-- Flip.LoginTest -->
+      </class> <!-- Tests.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
